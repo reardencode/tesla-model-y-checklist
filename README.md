@@ -1,28 +1,5 @@
 # Tesla Model Y Delivery Checklist
 
-The following is a distillation of posts from [`r/TeslaModelY`](https://www.reddit.com/r/TeslaModelY/). The list
-is not meant to replace Tesla's QC and thus doesn't offer 100% coverage. Rather, these contributions from MY owners
-who already walked the path aim to cover recurring problems that unfortunately seem to escape quality control (QC) at
-the factory as well as at the service centers.
-
-Use it to guide your inspection, document findings, assemble a list of problems to be handled by Tesla as pre-delivery issue(s)
-or refuse delivery.
-
-Not all issues can be inspected without unlocking the vehicle. Unless the service center staff offers to
-unlock your vehicle, you cannot do so prior to accepting delivery on your phone. To facilitate making that decision the list begins with
-items that could be inspected while the car is locked.
-
-Since you are inspecting a vehicle for issues, and issues can be dangerous, be careful. Do not stick your fingers between exterior panels
-or anywhere else you cannot visually inspect.
-
-This checklist requires at least 90 minutes to complete.
-
-## Before You Buy
-
-Ensure that you buy the car at the location you intend to pick up. Working with a showroom sales representative means that the rep is not on
-the ground and they are unable to inspect the vehicle themselves before selling it to you. Sales requests are simply forward onto the pickup
-location and any personal details or requests are lost in the handoff.
-
 ## Exterior
 
 ### Locked
@@ -67,7 +44,6 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Check that wipers function correctly and look for potential wiper dings on hood
 - [ ] Inspect every glass and make sure there are no scratches or cracks 
 - [ ] Check for trim scratches on windows due to a software bug that doesn't automatically lower the window when opening the door
-- [ ] Express Pickup: Check the charge of the vehicle. It comes from the factory at ~50% but the local distributor should charge it to 80%-90% for a "full tank."
 - [ ] Verify that the charge port opens and closes
 - [ ] Verify that the rubber gasket is properly attached to the bottom of all 4 doors.
 > * __Photo:__ [rubber gasket loose on driver door bottom](https://imgur.com/AodUDfg)
@@ -78,16 +54,6 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Inspect the screen for scratches
 - [ ] Inspect the center console scratches, dings, etc.
 - [ ] Inspect the dash for scratches
-- [ ] Verify that wireless charging works on both sides
-- [ ] Confirm wired charging works (1 x USB-A in front, 3 x USB-C, front and back)
-- [ ] Open and close the glovebox
-- [ ] Open and close windows using one click open close and manually open and close (make sure there are no noises and they stay up when you close, and when they
-go down they do all the way down for front two windows. The rear two windows don't go down all the way.
-- [ ] Verify backup camera
-- [ ] Play a familiar track through the sound system and confirm that all speakers work (use the balance and fader controls) and there
-are no unexpected clicks, etc.
-- [ ] Fold mirrors
-- [ ] Check all interior lights, and that all reading lights turn on with a press
 - [ ] Check windshield all around
 - [ ] Inspect the headliner all around (no grease, damage or scuffs)
 - [ ] Inspect both coat hooks (should extend, retract and latch)
@@ -97,7 +63,6 @@ are no unexpected clicks, etc.
 - [ ] Look for scratches on the passenger side door sill
 - [ ] Check seats for scuffs/damage/bad seams
 - [ ] Verify all front seat adjustments, including lumbar support
-- [ ] Confirm seat warmers work 
 - [ ] Confirm the middle seat on back row is flush at both ends
 - [ ] Confirm that back seats recline adjustment works correctly
 - [ ] Inspect the floor mats for rips, stains, etc.
@@ -105,7 +70,6 @@ are no unexpected clicks, etc.
 [reports](https://www.reddit.com/r/TeslaModelY/comments/gyhim1/is_this_normal_my_brake_pedal_arm_has_a_welded/) of
 different finish on pedals (matte on accelerator, glossy on brake) and a conspicuous weld in the middle of the brake pedal
 - [ ] Turn on climate control, force the heat pump to kick in by taking the temperature to either end of the scale and listen for loud noises
-- [ ] Confirm (car battery) charging works
 
 ## Frunk
 
@@ -125,35 +89,6 @@ different finish on pedals (matte on accelerator, glossy on brake) and a conspic
 
 ## Final thoughts about your delivery inspection
 
-Please don't be "that guy" that blocks Tesla deliveries and staff for hours while going over your new car with a microscope!
-You can report all of the above after you get home, at your leisure: you have a day/100 miles. It’s not like you won’t
-accept the car because of some minor issue that can be fixed by a mobile service tech later (but won’t be fixed at
-pickup).   Visit and check the local super charger while you are there, too.
-
-Better yet, if you can, pick up the car in person at an express checkout site. Assuming all of your affairs are in order via
-the website, Tesla will park your car in their lot and put your name on it. You simply sign the paperwork they leave on the dash,
-deposit the paperwork in a bin, and drive off. This allows you all the time you require to inspect the vehicle before deciding
-to accept the car or not. Do note that the express checkout is often staffed by temporary hires or other low-level staff as their
-only function is to shuffle the cars around and ensure the proper paperwork awaits you. Any problems that may arise they will simply
-ask you to schedule an appointment to come back in with the vehicle. Plan accordingly: do not pickup the vehicle at dusk and have
-to examine everything in darkness.
-
-This car is quite pricey. Make sure it is absolutely what you want before you accept delivery. With the recent push to "make the numbers,"
-Tesla is selling cars at a faster clip than they are staffing up at. Wait times to get any issues resolved "later" may be immense.
-
-## What next?
-
-Should anything escape factory QC, service center QC, and the above checklist here are some options to be aware of:
-
-- If the quality of the car is inadequate you can **refuse delivery**. There have been several refused delivery reports
-([1](https://www.reddit.com/r/TeslaModelY/comments/hgewe8/rejected_delivery_today_vin_012xxx/), 
-[2](https://www.reddit.com/r/TeslaModelY/comments/hgvjee/follow_up_image_from_my_other_post_here_was_the/),
-[3](https://www.reddit.com/r/TeslaModelY/comments/hgew40/model_y_rejected_delivery_today/),
-[4](https://www.reddit.com/r/TeslaModelY/comments/hfuum2/deferred_my_delivery/),
-[5](https://www.reddit.com/r/TeslaModelY/comments/hfb1vg/cancelled_model_y_delivery/),
-[6](https://www.reddit.com/r/TeslaModelY/comments/hete2x/update_rejected_delivery/)), check out the threads
- for details. Following that you should be assigned a new VIN.
- 
 - After leaving the lot you have 72 hours/100 miles to **report delivery issues to be fixed free of charge**. The 72 hours
 refers to items subject to "wear and tear," such as paint defects, scratches, etc. Any item that would normally be covered
 under warranty is still covered under warranty, but things like blemishes, scratches, dings, scuffs, aren't covered by any
